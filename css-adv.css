@@ -1,8 +1,14 @@
 h1 {
   background-color: blueviolet;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: right;
 }
 
 h3 {
-
+  color: pink;
+  font-size: larger; 
+  text-align: center;
+}
+.class p{
+  text-align: justify;
 }
